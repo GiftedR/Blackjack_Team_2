@@ -4,7 +4,7 @@ This is the blackjack assignment for Application-Devolopment-I.
 ## The Goal:
 __Design the underlying structure of the game of Blackjack.__
 
-[Powerpoint]()
+[Powerpoint](https://github.com/GiftedR/Blackjack_Team_2/blob/master/BlackjackPresentation.pptx)
 
 __Requirements:__
 Create a set of UML diagrams to codify the game's basic architecture, A minimum of three diagrams types are required (you can have multiple diagrams of each type as/if required). from among the core five (one required in Bold):
